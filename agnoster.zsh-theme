@@ -211,6 +211,7 @@ build_prompt() {
   prompt_context
   prompt_dir
   prompt_git
+  prompt_git_time_since_commit
   prompt_hg
   prompt_end
 }
